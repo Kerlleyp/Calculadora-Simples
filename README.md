@@ -16,7 +16,7 @@ Uma Calculadora simples e com todas funcionalidades da mesma.
 ## Commands
 
 Runs the app in the development mode.<br />
-Open [Calculadora](kerlleyp.github.io/Calculadora-Simples/) to view it in the browser.
+Open [Calculadora](https://kerlleyp.github.io/Calculadora-Simples/) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
